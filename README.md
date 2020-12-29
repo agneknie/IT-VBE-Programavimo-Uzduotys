@@ -3,7 +3,7 @@
 
 
 
-## English
+## English (EN)
 
 My solutions to programming tasks which were given in the Lithuanian Matura Exams of Information Technology from 2008 to 2020. Developed in preparation for my own exam in 2019.
 
@@ -12,7 +12,7 @@ My solutions to programming tasks which were given in the Lithuanian Matura Exam
 - Hence, these solutions **do not aim to be** a good example of best programming practises or code style;
 - Although, the solutions do capture the requirements quite closely.
 
-## Lithuanian
+## Lietuviškai (LT)
 
 Pateikiu savo Informacinių Technologijų valstybinio brandos egzaminų buvusių sesijų programavimo užduočių sprendimus.
 

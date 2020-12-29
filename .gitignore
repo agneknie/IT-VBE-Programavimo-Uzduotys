@@ -1,0 +1,6 @@
+# Ignoring compilation and project files
+# Ignoruojami kompiliavimo ir projektu failai
+
+*.exe
+*.o
+*.cbp
