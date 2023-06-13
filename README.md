@@ -5,7 +5,7 @@
 
 ## English (EN)
 
-My solutions to programming tasks which were given in the Lithuanian Matura Exams of Information Technology from 2008 to 2020. Developed in preparation for my own exam in 2019.
+My solutions to programming tasks which were given in the Lithuanian Matura Exams of Information Technology. Developed in preparation for my own exam in 2019.
 
 - All solutions aim to answer test tasks as closely as possible;
 - Tasks are formed in a way to test students' knowledge of programming paradigms and C++ syntax, rather than the efficiency or good programming style;
