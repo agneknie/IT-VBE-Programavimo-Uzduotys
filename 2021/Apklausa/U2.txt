@@ -1,0 +1,5 @@
+4
+Linas Informatika 4 10 8 8 9
+Ieva Matematika 3 9 9 8
+Juozas Fizika 2 8 9
+Rokas Chemija 4 9 9 10 7
