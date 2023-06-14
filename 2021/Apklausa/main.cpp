@@ -76,7 +76,7 @@ void rikiuotiMokinius(Mokinys *mokiniai, int m)
 {
     for(int i=0; i<m; i++){
         for(int j=0; j<m-1; j++){
-            if(mokiniai[j].dalykas < mokiniai[j+1].dalykas){
+            if(mokiniai[j].dalykas > mokiniai[j+1].dalykas){
                 swap(mokiniai[j], mokiniai[j+1]);
             }
         }
@@ -97,7 +97,7 @@ void skaiciuotiPopuliaruma(Mokinys *mokiniai, Dalykas *dalykai, int m, int &n)
     n = -1;     // -1, kad teisingai priskirtų pirmąjį (nulinį) elementą
 
     // Suformuojamas dalykų masyvas
-    for(int i=1; i<m; i++){
+    for(int i=0; i<m; i++){
         // Jei dabartinio mokinio mėgstamiausias dalykas sutampa su dabartiniu dalyku,
         // populiarumas padidėja 1.
         if(mokiniai[i].dalykas == dalykai[n].pavadinimas){
