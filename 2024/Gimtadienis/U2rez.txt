@@ -1,0 +1,13 @@
+III 11 6
+Evelina
+Jonas
+Meda
+Reda
+Rokas
+Vaida
+I 15 5
+Jonas
+Rasa
+Skirmantas
+Vidas
+Vlada

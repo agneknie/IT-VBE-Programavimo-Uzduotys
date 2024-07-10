@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609197941 source:c:\users\aagne\documents\programming\c++\egzai\2013\miestai ir apskritys\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

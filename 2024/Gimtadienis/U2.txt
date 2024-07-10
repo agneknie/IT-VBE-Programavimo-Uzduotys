@@ -1,0 +1,15 @@
+4 10
+I   3 10 15 17
+III 4 9 11 17 19
+IV  1 14
+VI  3 12 18 19
+Vidas        2 I 15 VI 18
+Vaida        3 III 9 III 11 IV 14
+Rasa         2 I 15 VI 18
+Skirmantas   1 I 15
+Vlada        3 I 10 I 15 VI 18
+Rokas        4 I 10 III 9 III 11 IV 14
+Jonas        4 I 15 I 17 III 11 VI 12
+Evelina      3 III 9 III 11 III 17
+Reda         1 III 11
+Meda         4 I 10 III 11 III 17 VI 12
